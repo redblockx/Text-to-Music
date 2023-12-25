@@ -8,5 +8,7 @@ A small app that converts text to musical notes.
 You will receive the name of the note and it's musical length. The numbers however you can interpret them however you want.
 
 Possible options:
+
 4 - whole note, 3 - dotted half note, 2 - half note, 1 - quarter note
+
 4 - quarter note, 3 - dotted quarter note, 2 - half note, 1 - whole note
